@@ -1,0 +1,50 @@
+{
+    "name": "Lightning",
+    "description": "Lightning data visualization server. By @mathisonian and @thefreemanlab",
+    "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/screen-capture-api\/11772-lightning.jpg",
+    "tags": [
+        "api provider",
+        "api service provider",
+        "have api",
+        "visualizations"
+    ],
+    "created": "2019-12-19",
+    "modified": "2019-12-19",
+    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/lightning\/master\/apis.json",
+    "specificationVersion": "0.14",
+    "apis": [
+        {
+            "name": "Lightning",
+            "description": null,
+            "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/screen-capture-api\/11772-lightning.jpg",
+            "humanURL": "http:\/\/lightning-viz.org\/",
+            "baseURL": "",
+            "tags": [],
+            "properties": [
+                {
+                    "type": "x-openapi",
+                    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/1forge\/master\/lightning-openapi.json"
+                }
+            ]
+        }
+    ],
+    "include": [],
+    "x-common": [
+        {
+            "type": "Developers",
+            "url": "http:\/\/lightning-viz.org\/documentation\/"
+        },
+        {
+            "type": "Github",
+            "url": "https:\/\/github.com\/lightning-viz"
+        },
+        {
+            "type": "Twitter",
+            "url": "https:\/\/twitter.com\/lightningviz"
+        },
+        {
+            "type": "Website",
+            "url": "http:\/\/lightning-viz.org\/"
+        }
+    ]
+}
